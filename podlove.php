@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Podlove Podcast Publisher
- * Plugin URI:  http://publisher.podlove.org
+ * Plugin URI:  https://github.com/gibso/podlove-publisher
  * Description: The one and only next generation podcast publishing system. Seriously. It's magical and sparkles a lot.
- * Version: 3.0.2
- * Author:      Podlove
+ * Version: 3.0.3_custom
+ * Author:      Podlove & Oliver Görtz
  * Author URI:  http://podlove.org
  * License:     MIT
  * License URI: license.txt
